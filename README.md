@@ -136,8 +136,8 @@ Rather than focusing on a single domain, I like understanding systems end-to-end
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to activate these dynamic cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asjohn720&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjohn720&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -147,10 +147,10 @@ Rather than focusing on a single domain, I like understanding systems end-to-end
 <div align="center">
   <p>Learning, building, breaking, and rebuilding things one project at a time.</p>
   
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/asjohn720">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="http://instagram.com/asjohn720">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
