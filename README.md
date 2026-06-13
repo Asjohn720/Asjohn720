@@ -132,16 +132,6 @@ Rather than focusing on a single domain, I like understanding systems end-to-end
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to activate these dynamic cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asjohn720&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjohn720&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff" height="150" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
